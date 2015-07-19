@@ -1,0 +1,17 @@
+{
+  "name": "livecontrol-js",
+  "version": "0.0.1",
+  "description": "\"LiveControl Client\"",
+  "main": "index.js",
+  "repository": "git@github.com:unRob/livecontrol-client-js.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Hidalgo",
+  "license": "WTFPL",
+  "dependencies": {
+    "mdns": "^2.2.9",
+    "nodejs-websocket": "^1.2.1",
+    "serialport": "^1.7.4"
+  }
+}
